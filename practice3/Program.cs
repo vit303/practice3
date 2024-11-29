@@ -8,6 +8,7 @@ class Program
     {
         //StrIntArr.Print();
         //Ex2.Print();
-        Ex3.Print();
+        //Ex3.Print();
+        Ex4.Print();
     }
 }
